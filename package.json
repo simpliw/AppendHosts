@@ -1,0 +1,17 @@
+{
+  "name": "append-hosts",
+  "version": "1.0.0",
+  "description": "a tool to append lastest hosts",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "liuwei",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "~1.6.2",
+    "node-notifier": "^5.1.2",
+    "request": "^2.81.0",
+    "sudo-prompt": "^7.0.0"
+  }
+}
